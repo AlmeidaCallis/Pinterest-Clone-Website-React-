@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Pinterest-Clone-Website-React-/static/js/main.f4df8d9f.js",
+    "main.js": "/Pinterest-Clone-Website-React-/static/js/main.ab4f9ffa.js",
     "index.html": "/Pinterest-Clone-Website-React-/index.html",
-    "main.f4df8d9f.js.map": "/Pinterest-Clone-Website-React-/static/js/main.f4df8d9f.js.map"
+    "main.ab4f9ffa.js.map": "/Pinterest-Clone-Website-React-/static/js/main.ab4f9ffa.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4df8d9f.js"
+    "static/js/main.ab4f9ffa.js"
   ]
 }
